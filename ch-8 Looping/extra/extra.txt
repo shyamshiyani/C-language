@@ -1,0 +1,7 @@
+Q-1.write a program to find first and last digit in a number.
+Q-2.write a program to find sum of first and last digit in a number.
+Q-3.write a program to find the digit of number.
+Q-4.write a program to find reverse number of given number and print this number is pelindrom or not.
+Q-5.write a program to swap first and last digit in a number.
+Q-6.write a program to find a prime number a given number.
+Q-7.write a program to print the given number is magic number or not.
